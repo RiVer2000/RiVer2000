@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
+
 <!--
 **RiVer2000/RiVer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
