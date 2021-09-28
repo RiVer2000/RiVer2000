@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Motion planning of quadcopter.
+- 🌱 I’m currently learning planning algorithms and trajectory generation.
+- 👯 I’m looking to collaborate on multi-agent systems
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+<!-- ⚡ Fun fact: 
 
 <!--
 **RiVer2000/RiVer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
