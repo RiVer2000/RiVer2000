@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- I'm a junior undergraduate in Mechanical Engineering in [Visvesvaraya National Institute of Technology, Nagpur, India](https://vnit.ac.in/)
 - 🔭 I’m currently working on Motion planning of quadcopter.
 - 🌱 I’m currently learning planning algorithms and trajectory generation.
 - 👯 I’m looking to collaborate on multi-agent systems
