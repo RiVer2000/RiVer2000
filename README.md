@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning planning algorithms and trajectory generation.
 - 👯 I’m looking to collaborate on multi-agent systems
 - 😄 Pronouns: He/Him
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RiVer2000&count_private=true&theme=tokyonight&showicons=true)]()
 <!-- ⚡ Fun fact: 
 
 <!--
