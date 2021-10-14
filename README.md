@@ -23,9 +23,6 @@
 <a target="_blank" href="mailto:vermarishabh2000@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=918957420968">
-  <img align="left" alt="Whatsapp" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />
-</a>
 <a target="_blank" href="https://www.instagram.com/rish_bh_verma/">
   <img align="left" alt="Instagram" width="26px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" />
 </a>
