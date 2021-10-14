@@ -1,8 +1,16 @@
 ### 👋 Hi there 
-- 🐣 I'm a junior undergraduate in Mechanical Engineering in [Visvesvaraya National Institute of Technology, Nagpur, India](https://vnit.ac.in/) and a Member of [IvLabs](https://www.ivlabs.in/).
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🐣 I'm a junior undergraduate in Mechanical Engineering in [Visvesvaraya National Institute of Technology, Nagpur, India](https://vnit.ac.in/).
+
+- 🤖 I'm a member of [IvLabs](https://www.ivlabs.in/).
+
 - 🔭 I’m currently working on motion planning of quadcopter.
+
 - 🌱 I’m currently learning planning algorithms and trajectory generation.
+
 - 👯 I’m looking to collaborate on multi-agent systems
+
 - 😄 Pronouns: He/Him
 ### ⚙️ GitHub Stats 
 
