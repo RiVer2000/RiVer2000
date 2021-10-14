@@ -1,9 +1,10 @@
-### Hi there 👋
+### 👋 Hi there 
 - 🐣 I'm a junior undergraduate in Mechanical Engineering in [Visvesvaraya National Institute of Technology, Nagpur, India](https://vnit.ac.in/) and a Member of [IvLabs](https://www.ivlabs.in/).
-- 🔭 I’m currently working on Motion planning of quadcopter.
+- 🔭 I’m currently working on motion planning of quadcopter.
 - 🌱 I’m currently learning planning algorithms and trajectory generation.
 - 👯 I’m looking to collaborate on multi-agent systems
 - 😄 Pronouns: He/Him
+### ⚙️ GitHub Stats 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RiVer2000&count_private=true&theme=tokyonight&showicons=true)]()
 <!-- ⚡ Fun fact: 
