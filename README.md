@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on multi-agent systems
 
+- ⚡ Fun fact: I absolutely adore Fantasy Fiction. 
+
 - 😄 Pronouns: He/Him
 ### ⚙️ GitHub Stats 
 
