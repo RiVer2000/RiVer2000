@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning planning algorithms and trajectory generation.
 
-- 👯 I’m looking to collaborate on multi-agent systems
+- 👯 I’m looking to collaborate on multi-agent systems.
 
 - ⚡ Fun fact: I absolutely adore Fantasy Fiction. 
 
