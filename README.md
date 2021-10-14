@@ -1,9 +1,10 @@
+<p align="center">
+  <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+</p>
+
 ### 👋 Hi there 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🐣 I'm a junior undergraduate in Mechanical Engineering in [Visvesvaraya National Institute of Technology, Nagpur, India](https://vnit.ac.in/).
-
-- 🤖 I'm a member of [IvLabs](https://www.ivlabs.in/).
+- 🤖 I'm a junior undergraduate in Mechanical Engineering in [Visvesvaraya National Institute of Technology, Nagpur, India](https://vnit.ac.in/) and a member of [IvLabs](https://www.ivlabs.in/).
 
 - 🔭 I’m currently working on motion planning of quadcopter.
 
