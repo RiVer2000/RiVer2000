@@ -25,7 +25,7 @@
   <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/rish_bh_verma/">
-  <img align="left" alt="Instagram" width="26px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" />
+  <img align="left" alt="Instagram" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />
 </a>
 </br>
 
