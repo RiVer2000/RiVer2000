@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I absolutely adore Fantasy Fiction. 
 
-- 😄 Pronouns: He/Him
+- 😄 For more details visit my [website](https://sites.google.com/view/river2000/home)
 
 ### 🤝 Get in touch
 
