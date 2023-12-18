@@ -4,11 +4,11 @@
 
 ### 👋 Hi there 
 
-- 🤖 I'm a junior undergraduate in Mechanical Engineering in [Visvesvaraya National Institute of Technology, Nagpur, India](https://vnit.ac.in/) and a member of [IvLabs](https://www.ivlabs.in/).
+- 🤖 I'm a graduate student pursuing MS in Mechatronics and Robotics at New York University.
 
-- 🔭 I’m currently working on motion planning of quadcopter.
+- 💻 I'm am currently working in the Agile Robotics and Perception Lab under Prof. Giuseppe Loianno as a Graduate Research Assistant.
 
-- 🌱 I’m currently learning planning algorithms and trajectory generation.
+- 🔭 I’m currently working in the intersection of Neural Radiance Field and quadcopter mapping.
 
 - 👯 I’m looking to collaborate on multi-agent systems.
 
