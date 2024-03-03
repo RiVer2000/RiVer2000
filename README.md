@@ -16,6 +16,19 @@
 
 - 😄 For more details visit my [website](https://sites.google.com/view/river2000/home)
 
+### 🔨 Languages and Tools:
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://in.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://docs.px4.io/master/assets/img/logo_pro_small.e0fa34bd.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" alt="linux" width="100" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://ardupilot.org/dev/_images/ardupilot_logo.jpg" alt="git" width="150" height="40"/> </a> 
+<br>
+
 ### 🤝 Get in touch
 
 <a target="_blank" href="https://www.linkedin.com/in/rishabh-verma-a243451b4/">
