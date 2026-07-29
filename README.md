@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I absolutely adore Fantasy Fiction. 
 
-- 😄 For more details visit my [website](https://sites.google.com/view/river2000/home)
+- 😄 For more details visit my [website](https://river2000.github.io/)
 
 ### 🔨 Languages and Tools:
 <p align="left">
